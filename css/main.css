@@ -2320,6 +2320,9 @@ footer .contacts .bot_text:hover{
         padding-top: 5px;
         padding-bottom: 5px;
     }
+    .pop__up-developer{
+        width: 300px;
+    }
 }
 
 .pop_up_bg {
