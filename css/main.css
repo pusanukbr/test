@@ -2320,9 +2320,6 @@ footer .contacts .bot_text:hover{
         padding-top: 5px;
         padding-bottom: 5px;
     }
-    .pop__up-developer{
-        width: 300px;
-    }
 }
 
 .pop_up_bg {
@@ -2572,5 +2569,8 @@ footer .contacts .form_bot input.error {
 @media screen and (max-width: 400px) {
     .serst .slider .item {
         min-height: auto;
+    }
+    .pop__up-developer{
+        width: 300px;
     }
 }
