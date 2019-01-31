@@ -2572,5 +2572,6 @@ footer .contacts .form_bot input.error {
     }
     .pop__up-developer{
         width: 300px;
+        zoom: 100%;
     }
 }
